@@ -1,4 +1,4 @@
-# SOPTIFY-CLONE 🎵
+# SPOTIFY-CLONE 🎵
 
 A simple Spotify-inspired music player clone built with **HTML, CSS, and JavaScript**.  
 This project replicates the core UI and basic functionality of Spotify, including:
